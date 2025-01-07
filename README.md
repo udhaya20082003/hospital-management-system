@@ -46,7 +46,7 @@ git clone https://github.com/udhaya20082003/hospital-management-system.git
 ### Dashboard  
 View data about patients, rooms, and their statuses:  
 
-[corrected_hospital_management_system](https://github.com/user-attachments/assets/dd4edd03-6517-4f5c-aaac-0e7e451bfb80)
+![corrected_hospital_management_system](https://github.com/user-attachments/assets/dd4edd03-6517-4f5c-aaac-0e7e451bfb80)
 
 ### Add Patient Page  
 Add new patients and automatically calculate their scores:  
